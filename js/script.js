@@ -106,3 +106,5 @@ wrapper.append(div)
 div.innerHTML = '<h1>Hello World</h1>'
 // div.textContent = '<h1>Hello World</h1>'
 div.insertAdjacentHTML('beforebegin', '<p>h. yykkb</p>')
+console.log('8h 8ybibi8by')
+console.log('kjbuig.  ')
